@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-psyff",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "psyff": "./server.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0"
+  }
+}
